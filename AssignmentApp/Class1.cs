@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AssignmentApp
 {
-    public class employee   
+    public class Employee   
     {
     }
 }
